@@ -1,0 +1,7 @@
+{
+  "name": "Wish Host - Trading & Hospitality",
+  "description": "A modern corporate website for Wish Host, a leading service-based company in Qatar specializing in Trading, Contracting, Facilities Management, and Hospitality.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
